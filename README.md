@@ -2,11 +2,9 @@
 # Repositorio de arquivos de estudo da Linguagem GO Lang.
 
 ## Tecnologias utilizadas
-
 [![My Skills](https://skillicons.dev/icons?i=golang,mysql,js,css,html,gma&theme=light)](https://skillicons.dev)
 
 ## Topicos estudados
-
  - fundamentos da linguagem
  - Mini aplicação de linha de comando
  - concorrência
@@ -18,7 +16,6 @@
 
 
 ## O que foi realizado:
-
  - desenvolvimento de uma rede social utilizando a linguagem Go
  - Utilização do Go para desenvolvimento front-end e back-end
  - Trabalho de forma prática e eficiente com concorrência
