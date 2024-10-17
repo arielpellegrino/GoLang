@@ -1,8 +1,9 @@
 
 # Repositorio de arquivos de estudo da Linguagem GO Lang.
 
+## Tecnologias utilizadas
 
-
+[![My Skills](https://skillicons.dev/icons?i=golang,mysql,js,css,html,gma&theme=light)](https://skillicons.dev)
 
 ## Topicos estudados
 
