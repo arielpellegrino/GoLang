@@ -30,5 +30,6 @@
 
 
 ## Ferramentas
+ - Jetbrains Goland
  - VSCode
  - MySQL
