@@ -27,8 +27,6 @@
  - [Golang DOCs](https://go.dev/doc/)
  - [Curso - Aprenda Golang do Zero! Desenvolva uma APLICAÇÃO COMPLETA!](https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa/)
 
-
-
 ## Ferramentas
  - Jetbrains Goland
  - VSCode
